@@ -16,6 +16,7 @@
 </p>
 
 <p align="center">
+  🔗 <b>개인 블로그:</b>
   <a href="https://develog.kiweb.or.kr/@user_1777093328305">
     <img src="https://img.shields.io/badge/Development%20Blog-181717?style=flat-square&logo=blogger&logoColor=white">
   </a>
