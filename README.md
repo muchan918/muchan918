@@ -62,8 +62,6 @@ Unity Game Client Development Course
 
 🔗 **Link:** [![STOVE](https://img.shields.io/badge/STOVE-FF5E00?style=flat-square&logoColor=white)](https://store.onstove.com/ko/games/105707)
 
-<br>
-
 ### 7Days
 
 **Solo Developer / Client Programmer**  
